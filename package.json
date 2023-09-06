@@ -23,7 +23,7 @@
     "erela.js-facebook": "^1.0.4",
     "erela.js-spotify": "^1.2.0",
     "lodash": "^4.17.21",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "moment-duration-format": "^2.3.2",
     "mongoose": "^6.0.12",
     "ms": "^2.1.3",
